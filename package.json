@@ -20,7 +20,8 @@
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.2.0",
     "hippie": "^0.5.1",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
   },
   "dependencies": {
     "restify": "^4.3.0"
