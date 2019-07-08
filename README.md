@@ -1,5 +1,5 @@
 # restify-example
-Example Restify server showing how to split routes and organize a project
+Example Restify server showing how to use closures to split routes and organize a project
 
 ## Running the project
 ```console
